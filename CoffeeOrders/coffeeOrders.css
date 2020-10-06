@@ -1,0 +1,12 @@
+body {
+    background-image: url("pinkCoffee.jpg");
+    font-size: large;
+    color: rgb(53, 42, 42);
+    margin: 40px;
+    font-family: 'Architects Daughter', cursive;
+}
+
+ul {
+    padding: 20px;
+    list-style-type: none;
+}
