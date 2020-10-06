@@ -1,0 +1,45 @@
+body {
+    margin: 20px;
+    display: flex;
+    background-color: rgb(231, 231, 231);
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    width: 30%;
+    height: 40%;
+    border: goldenrod;
+    border-style: solid;
+    margin: 20px;
+}
+
+#moviesUL {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+ul {
+    background-color: black;
+    /* background-color: rgb(26, 144, 248); */
+    list-style-type: none;
+    justify-content: center;
+    margin: 10px;
+    color: white;
+}
+
+button {
+    margin: 20px;
+}
+
+b {
+    margin-left: 20px;
+    color: lightslategray;
+    justify-self: center;
+}
+
+li {
+    color: white;
+    justify-content: center;
+}
